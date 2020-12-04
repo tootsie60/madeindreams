@@ -1,6 +1,6 @@
 ### Hello World!
 
-If you see this page, it's probably because your code looking for cool code example.
+If you see this page, it's probably because your looking for cool code example.
 
 Hope you enjoy it!
 
