@@ -25,6 +25,8 @@ For convenience purpose the project is also hosted in an old centralized fashion
 
 https://madeindreams.ca
 
+- :collision: [Hitchicker's Guide to Ethereum Development](https://github.com/Madeindreams/hitch-eth-dev)
+
 - 🌱 I’m currently learning
 
 ``` Blockchain technologies like Solidity and smrat contract programming on the ethereum blockchain ```
