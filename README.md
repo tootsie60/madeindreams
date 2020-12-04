@@ -25,7 +25,10 @@ For convenience purpose the project is also hosted in an old centralized fashion
 
 https://madeindreams.ca
 
+### Cool New Code!
+
 - :collision: [Hitchicker's Guide to Ethereum Development](https://github.com/Madeindreams/hitch-eth-dev)
+- :bomb: [Create Your Own Blockchain in Javascript](https://github.com/Madeindreams/mdtn)
 
 - 🌱 I’m currently learning
 
