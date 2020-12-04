@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hello World!
 
+If you see this page it's probably because your code isn't working so you came and grabed mine!
 
+Hope you enjoy it!
 
 - 🔭 I’m currently working on
 
@@ -8,8 +10,8 @@ http://idecentralize.eth.link
 ```
 A decentralized App built on the Ethereum Network.
 Curently deployed on the rinkeby testnet, Contact me on discord to add you own ERC20 to my DEX
-Staking is now live. Currently working on NFTs. The app is hosted on IPFS
-Can be found here;
+Staking is now live. Currently working on NFTs. The app is on the *Inter Planetary File System*.
+```
 
 ipfs://QmR7bw3BsLCg58dvXjCm7t1PWuMAa93HLuATQWPv6E56P3
 
@@ -19,13 +21,13 @@ https://ipfs.io
 
 Also have a chanel about IPFS on the disord.
 
-```
+For convenience purpose the project is also hosted in an old centralized fashion
 
+https://madeindreams.ca
 
 - 🌱 I’m currently learning
 
 ``` Blockchain technologies like Solidity and smrat contract programming on the ethereum blockchain ```
-
 
 
 - 📫 How to reach me:
@@ -33,7 +35,6 @@ Also have a chanel about IPFS on the disord.
 - https://discord.gg/BXxFRksjDM
 - admin@madeindreams.ca
 
-- 😄 Pronouns: ...
 
 - ⚡ Fun fact 
 
