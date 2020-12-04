@@ -29,7 +29,7 @@ https://madeindreams.ca
 
 - 🌱 I’m currently learning
 
-``` Blockchain technologies like Solidity and smrat contract programming on the ethereum blockchain ```
+``` Blockchain technologies like Solidity and smart contract programming on the ethereum blockchain ```
 
 
 - 📫 How to reach me:
