@@ -1,6 +1,6 @@
 ### Hello World!
 
-If you see this page it's probably because your code isn't working so you came and grabed mine!
+If you see this page, it's probably because your code isn't working so you came and grabbed mine!
 
 Hope you enjoy it!
 
@@ -9,7 +9,7 @@ Hope you enjoy it!
 http://idecentralize.eth.link
 ```
 A decentralized App built on the Ethereum Network.
-Curently deployed on the rinkeby testnet, Contact me on discord to add you own ERC20 to my DEX
+Curently deployed on the rinkeby testnet, Contact me on discord to add you own ERC20 to my DEX.
 Staking is now live. Currently working on NFTs. The app is on the *Inter Planetary File System*.
 ```
 
